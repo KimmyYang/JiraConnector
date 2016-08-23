@@ -1,7 +1,7 @@
 Software License Agreement (BSD License)
 ========================================
 
-Copyright (c) 2013, Federico Silva Armas
+Copyright (c) 2013, Federico Silva Armas  
 All rights reserved.
 
 ----------------------------------------------------
