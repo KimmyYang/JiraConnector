@@ -1,0 +1,4 @@
+E:\Code\VisualStuidio_Project\AutoAlogParser\JiraConnector\bin\Release\JiraConnector.dll
+E:\Code\VisualStuidio_Project\AutoAlogParser\JiraConnector\bin\Release\JiraConnector.pdb
+E:\Code\VisualStuidio_Project\AutoAlogParser\JiraConnector\obj\Release\JiraConnector.dll
+E:\Code\VisualStuidio_Project\AutoAlogParser\JiraConnector\obj\Release\JiraConnector.pdb
